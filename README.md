@@ -6,8 +6,8 @@ Spec2VEC is an intelligent framework designed to extract objective, interpretabl
 
 Developed specifically for geophysics and planetary exploration (but not limited to this domain), Spec2VEC addresses the "input" problem by systematically extracting information content from signal representations and and representing through a suit of numerical identities. It provides a transparent, physics-aware alternative to "black-box" deep learning models, ensuring that signal characterization remains consistent and reproducible.
 
-03/14/2026
-Updated Version 1 of this code base
+## Updates
+03/14/2026: Updated Version 0.2 that includes the main codebase with results of DAS application and Synthetic Geophysical Signals clustering.  
 
 Contact: \
 Sayan Swar (sswar@ur.rochester.edu; https://github.com/PSU-Geofluids-Lab) \
