@@ -1,3 +1,5 @@
+##Authors: Sayan Kr. Swar, Tushar Mittal, Tolulope Olugboji
+
 import numpy as np
 from scipy.io import wavfile
 from scipy import signal

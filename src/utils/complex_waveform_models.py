@@ -1,3 +1,5 @@
+##Authors: Sayan Kr. Swar, Tushar Mittal, Tolulope Olugboji
+
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 import os

@@ -1,3 +1,5 @@
+##Authors: Sayan Kr. Swar, Tushar Mittal, Tolulope Olugboji
+
 import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.pylab as pl

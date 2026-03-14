@@ -1,3 +1,5 @@
+##Authors: Sayan Kr. Swar, Tushar Mittal, Tolulope Olugboji
+
 from scipy import signal
 import numpy as np
 import pywt

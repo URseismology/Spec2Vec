@@ -1,3 +1,5 @@
+##Authors: Sayan Kr. Swar, Tushar Mittal, Tolulope Olugboji
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, filtfilt, chirp
